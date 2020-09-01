@@ -2,6 +2,7 @@
   Desafio 10: GoRestaurant Web
 </h3>
 
+<p align="center">
 <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
