@@ -25,4 +25,4 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
   yarn json-server server.json -p 3333
 
 ## 📷 Image
-<img src="./assets/panel.gif"
+<img src="./assets/panel.png"
