@@ -1,7 +1,10 @@
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
+
 <h3 align="center">
   Desafio 10: GoRestaurant Web
 </h3>
 
+<p align="center">
 <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
