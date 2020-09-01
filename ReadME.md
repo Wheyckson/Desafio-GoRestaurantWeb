@@ -9,22 +9,19 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
 
-### :rocket: Sobre o desafio
+### :rocket: About the challenge
 
-Nesse desafio, foi desenvolvido mais uma aplicação, a GoRestaurant. Um modo de praticar o que foi aprendido no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
+In this challenge, another application was developed, GoRestaurant. A way to practice what was learned in React.js together with TypeScript, practicing the concept of CRUD (Create, Read, Update, Delete).
 
-Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
+This will be an application that will connect to a fake API, and display the created food dishes and allow the creation, removal and updating of these dishes.
 
-### Utilizando uma fake API
+### Using a fake API
 
-Antes de tudo, para que você tenha os dados para exibir em tela, criamos um arquivo que você poderá utilizar como fake API para te prover esses dados.
 
-Para isso, deixamos instalado no seu package.json uma dependência chamada `json-server`, e um arquivo chamado `server.json` que contém os dados para uma rota `/foods`. Para executar esse servidor você pode executar o seguinte comando:
+First of all, so that you have the data to display on screen, we created a file that you can use as a fake API to provide you with this data.
+
+For that, we leave a dependency called `json-server` installed in your package.json, and a file called` server.json` that contains the data for a `/ foods` route. To run this server you can run the following command:
 
 ```js
   yarn json-server server.json -p 3333
 ```
-
-## 📷 Image
-
-<img src="./assets/panel.png" alt="Demo" width="900" height="320"/>
