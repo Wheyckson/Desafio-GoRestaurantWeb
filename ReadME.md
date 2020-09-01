@@ -20,3 +20,6 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
 
 ```js
   yarn json-server server.json -p 3333
+
+## 📷 Image
+<img src="./assets/panel.gif"
