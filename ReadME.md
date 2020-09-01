@@ -26,5 +26,4 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
 
 ## 📷 Image
 
-<img src="./assets/web.gif" alt="Proffy Demo" width="600"/> <img src="./assets/mobile.gif" alt="Proffy Demo" height="320"/>
-<img src="./assets/panel.png"/>
+<img src="./assets/panel.png" alt="Demo" width="900" height="320"/>
